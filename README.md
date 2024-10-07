@@ -19,7 +19,7 @@
 
 - 📫 How to reach me **laitonjamsanalembameitei99@gmail.com**
 
-- 📄 Know about my experiences [Devlopyed more than 3 project on netlify](Devlopyed more than 3 project on netlify)
+- 📄 Know about my experiences [Devlopyed more than 17 project on netlify and Vercel](Devlopyed more than 3 project on netlify)
 
 - ⚡ Fun fact **Gym Rat**
 
