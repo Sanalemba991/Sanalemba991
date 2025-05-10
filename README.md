@@ -30,7 +30,7 @@
 ```javascript
 const sanalemba = {
   currentRole: "Trainee Fullstack Developer @ Lovosis Technology Private Limited",
-  previousExperience: "Intern @ Kaiztren Innovative Solutions",
+  previousExperience: "Internship Fullstack Developer @ Kaiztren Innovative Solutions",
   technologies: {
     frontend: ["React.js", "Next.js", "HTML5", "CSS3", "JavaScript", "Tailwind CSS", "Astro"],
     backend: ["Node.js", "Express.js"],
