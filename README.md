@@ -2,9 +2,9 @@
 
 # Sanalemba Laitonjam
 
-**Fullstack Developer · ML Practitioner · Blockchain Explorer**
+**Fullstack Developer · AI Practitioner · ML Practitioner · Blockchain Explorer**
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=4F9CF9&center=true&vCenter=true&width=500&lines=Building+full-stack+products+with+MERN;Exploring+ML+%26+Deep+Learning;Dabbling+in+Blockchain+%26+Web3;Code.+Create.+Conquer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=3000&pause=1200&color=4F9CF9&center=true&vCenter=true&width=500&lines=Building+full-stack+products+with+MERN;Exploring+AI+%26+Deep+Learning;Dabbling+in+Blockchain+%26+Web3;Code.+Create.+Conquer.)](https://git.io/typing-svg)
 
 [![Profile Views](https://komarev.com/ghpvc/?username=sanalemba991&label=Profile+Views&color=4F9CF9&style=flat-square)](https://github.com/sanalemba991)
 [![GitHub Followers](https://img.shields.io/github/followers/sanalemba991?style=flat-square&color=4F9CF9&label=Followers)](https://github.com/sanalemba991?tab=followers)
@@ -16,9 +16,9 @@
 
 ## About
 
-I'm a fullstack developer currently working as a **Trainee at Lovosis Technology Pvt. Ltd.**, with prior experience as a fullstack intern at **Kaiztren Innovative Solutions**. My day-to-day is rooted in the MERN stack, but I actively explore machine learning, NLP, and blockchain on the side.
+I'm a fullstack developer currently working as a **Fullstack Developer at Lovosis Technology Pvt. Ltd.**, with prior experience as a fullstack intern at **Kaiztren Innovative Solutions**. My day-to-day is rooted in the MERN stack, but I actively explore AI, machine learning, NLP, and blockchain on the side.
 
-I've shipped 70+ web projects ranging from ML-powered translation tools to production-grade React applications — deployed and live on Vercel and Netlify.
+I've shipped 100+ web projects ranging from AI-powered translation tools to production-grade React applications — deployed and live on Vercel and Netlify.
 
 Outside the terminal: gym regular 🏋️‍♂️, always chasing the next build.
 
@@ -28,7 +28,7 @@ Outside the terminal: gym regular 🏋️‍♂️, always chasing the next buil
 
 | Role | Company | Type |
 |---|---|---|
-| Trainee Fullstack Developer | Lovosis Technology Pvt. Ltd. | Current |
+| Fullstack Developer | Lovosis Technology Pvt. Ltd. | Current |
 | Fullstack Developer | Kaiztren Innovative Solutions | Internship |
 
 ---
@@ -41,8 +41,8 @@ Outside the terminal: gym regular 🏋️‍♂️, always chasing the next buil
 **Backend & Database**
 `Node.js` `Express.js` `MongoDB`
 
-**ML / Data**
-`Python` `TensorFlow` `NLP`
+**AI / ML / Data**
+`Python` `TensorFlow` `NLP` `AI`
 
 **Other**
 `Firebase` `Blockchain` `SEO`
@@ -52,17 +52,35 @@ Outside the terminal: gym regular 🏋️‍♂️, always chasing the next buil
 ## Featured Projects
 
 ### 🔤 Multilingual Translation App
-ML-powered multilingual transcription and translation — built with React.js and deployed on Vercel.
+AI-powered multilingual transcription and translation — built with React.js and deployed on Vercel.
 
 [![Demo](https://img.shields.io/badge/Live+Demo-4F9CF9?style=flat-square&logo=vercel&logoColor=white)](https://ml-multiligual-translation-using-react-js-web-base.vercel.app/)
 [![Code](https://img.shields.io/badge/Source+Code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanalemba991/ML-Multiligual-translation-Using-ReactJS-Web-Base)
 
-> Uses browser-native ML APIs for real-time translation across multiple languages. Focused on performance and minimal latency.
+> Uses browser-native AI/ML APIs for real-time translation across multiple languages. Focused on performance and minimal latency.
 
 ---
 
-### 📁 70+ Web Projects
-A broad collection spanning UI components, full-stack apps, and ML experiments.
+### ⛓️ Blockchain Project 1
+Decentralized application built on the blockchain — exploring smart contracts and Web3 integration.
+
+[![Code](https://img.shields.io/badge/Source+Code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanalemba991?tab=repositories)
+
+> Hands-on experimentation with blockchain technology, decentralized architecture, and on-chain data handling.
+
+---
+
+### ⛓️ Blockchain Project 2
+Blockchain-based solution focused on transparency and secure transactions.
+
+[![Code](https://img.shields.io/badge/Source+Code-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanalemba991?tab=repositories)
+
+> Exploring real-world use cases of blockchain — from ledger systems to decentralized identity and beyond.
+
+---
+
+### 📁 100+ Web Projects
+A broad collection spanning UI components, full-stack apps, AI experiments, and blockchain builds.
 
 [![View All](https://img.shields.io/badge/All+Repositories-24292F?style=flat-square&logo=github&logoColor=white)](https://github.com/Sanalemba991?tab=repositories)
 
