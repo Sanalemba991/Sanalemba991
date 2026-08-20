@@ -146,8 +146,6 @@ Blockchain-based solution focused on transparency and secure transactions — ex
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=sanalemba991&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=4F9CF9&icon_color=4F9CF9&bg_color=0D1117" />
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanalemba991&layout=compact&theme=github_dark&hide_border=true&title_color=4F9CF9&bg_color=0D1117" />
 
 <img src="https://streak-stats.demolab.com/?user=sanalemba991&theme=github-dark-blue&hide_border=true&ring=4F9CF9&fire=4F9CF9&currStreakLabel=4F9CF9&background=0D1117" />
 
