@@ -74,13 +74,14 @@ I'm a fullstack developer currently working as a **Fullstack Developer at Lovosi
 
 <img src="https://skillicons.dev/icons?i=python,tensorflow&theme=dark" />
 <img src="https://img.shields.io/badge/NLP-4F9CF9?style=for-the-badge&logo=openai&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI-4F9CF9?style=for-the-badge&logo=brain&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-4F9CF9?style=for-the-badge&logo=OpenAI&logoColor=white"/>
 
 <br/><br/>
 
 **Other**
 
-<img src="https://skillicons.dev/icons?i=firebase,solidity&theme=dark" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+<img src="https://img.shields.io/badge/Blockchain-4F9CF9?style=for-the-badge&logo=ethereum&logoColor=white"/>
 <img src="https://img.shields.io/badge/SEO-4F9CF9?style=for-the-badge&logo=googlesearchconsole&logoColor=white"/>
 
 </div>
